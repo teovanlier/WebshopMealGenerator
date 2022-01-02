@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PDPB55DLXSCBTihLHTi4GKw4R4SJxnXnjeQEj6m6rRh4WgKum+6PbTabh9eKtUWPib4+bR6ue+wg/ZKglImINQ==",
+  "success": true,
+  "projectFilePath": "D:\\WebshopMealGenerator\\WebshopMealGenerator\\WebshopMealGenerator\\WebshopMealGenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\teo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
